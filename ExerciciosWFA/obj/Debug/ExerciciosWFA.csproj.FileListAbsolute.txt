@@ -1,0 +1,11 @@
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\bin\Debug\ExerciciosWFA.exe.config
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\bin\Debug\ExerciciosWFA.exe
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\bin\Debug\ExerciciosWFA.pdb
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.csprojResolveAssemblyReference.cache
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Form1.resources
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Principal.resources
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Properties.Resources.resources
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.csproj.GenerateResource.Cache
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.exe
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.pdb
+C:\Users\104957\Documents\GitHub\ExerciciosWFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio02.resources
