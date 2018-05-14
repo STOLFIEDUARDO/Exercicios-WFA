@@ -20,7 +20,7 @@ namespace ExerciciosWFA
         private void button1_Click(object sender, EventArgs e)
         {
             int quantidadeDeLitrosPorDia = 0, quantidadeDeLitrosPorAno = 0;
-            double valorlitro = 0, quantidadeDeLitros = 0;
+            double valorlitro = 0;
 
             quantidadeDeLitrosPorDia = Convert.ToInt32(txtQnt.Text);
             quantidadeDeLitrosPorAno = Convert.ToInt32(txtAnos.Text);
@@ -48,6 +48,11 @@ namespace ExerciciosWFA
             string //textao = string.Format("Antecessor: {0}\r\nSucessor: {1}\r\n",
                                            //sucessor, antecessor);
             txtResultado.Text = //textao;*/
+        }
+
+        private void txtResultado_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }
