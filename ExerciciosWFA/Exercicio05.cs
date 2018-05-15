@@ -97,6 +97,6 @@ namespace ExerciciosWFA
             DiferencaDeFinanciamento = ValorTotalDoFinanciamento - valor;
 
             MostrarInformacoes();
-        }
+        }   
     }
 }

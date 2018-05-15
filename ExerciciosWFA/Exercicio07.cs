@@ -16,5 +16,19 @@ namespace ExerciciosWFA
         {
             InitializeComponent();
         }
+
+        private void btGerar_Click(object sender, EventArgs e)
+        {
+            string piramide = String.Format(
+                                                 @"
+                                                    *
+                                                   ***
+                                                  *****
+                                                 *******
+                                                *********
+                                               ***********");                                            
+            
+            txtGerar.Text = piramide;
+        }
     }
 }
