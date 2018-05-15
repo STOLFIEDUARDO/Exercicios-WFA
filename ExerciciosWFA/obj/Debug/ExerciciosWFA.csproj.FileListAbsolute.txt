@@ -26,3 +26,6 @@ C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\Exercici
 C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio06.resources
 C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio07.resources
 C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio08.resources
+C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio09.resources
+C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio10.resources
+C:\Users\104957\Documents\GitHub\Exercicios-WFA\ExerciciosWFA\obj\Debug\ExerciciosWFA.Exercicio11.resources
